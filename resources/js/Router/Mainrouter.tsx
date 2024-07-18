@@ -5,6 +5,7 @@ import Index from "../Components/Views/User/Main/Index";
 
 export default function Mainrouter()
 {
+    {/* <Route element={<AuthMiddleware />}></Route> */}
     return (
         <Routes>
             <Route path="/" element={<Master />}>
