@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Routes } from "react-router";
+import { Route, Routes } from "react-router-dom";
 import Master from "../Components/Layouts/User/Master";
 import Index from "../Components/Views/User/Main/Index";
 
